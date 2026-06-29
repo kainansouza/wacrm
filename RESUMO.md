@@ -533,7 +533,7 @@ npm run dev
 
 | Variável | Valor |
 |----------|-------|
-| `NEXT_PUBLIC_SUPABASE_URL` | `https://hepuziqmdiogereifqxn.supabase.co` |
+| `NEXT_PUBLIC_SUPABASE_URL` | ✅ Configurada |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | ✅ Configurada |
 | `SUPABASE_SERVICE_ROLE_KEY` | ✅ Configurada |
 | `ENCRYPTION_KEY` | ✅ 64 caracteres hex gerada |
